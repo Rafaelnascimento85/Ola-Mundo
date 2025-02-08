@@ -4,4 +4,4 @@
  
  Repositório criado durante uma aula ao vivo!
  
- Essa linha eu alterie direto no site! QUE INTERESSANTE!
+ Essa linha eu alterei direto no site! QUE INTERESSANTE!
